@@ -1,2 +1,2 @@
 # HorceRacingPrediction2023
-Predict results of horse racing in Jeju, South Korea
+We aim for data-driven prediction horse races in Jeju, South Korea 
